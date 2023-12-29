@@ -1,0 +1,865 @@
+CRITICAL - 2023-12-26 05:16:46 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:17:10 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:17:12 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:17:22 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:17:46 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:17:51 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:20:46 --> Call to undefined method Config\Database::getConnections()
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Debug\Toolbar\Collectors\Database.php(69): CodeIgniter\Debug\Toolbar\Collectors\Database->getConnections()
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Debug\Toolbar.php(62): CodeIgniter\Debug\Toolbar\Collectors\Database->__construct()
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Config\Services.php(626): CodeIgniter\Debug\Toolbar->__construct(Object(Config\Toolbar))
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Config\BaseService.php(248): CodeIgniter\Config\Services::toolbar(Object(Config\Toolbar), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('toolbar', Array)
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Config\Services.php(621): CodeIgniter\Config\BaseService::getSharedInstance('toolbar', NULL)
+#6 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Config\BaseService.php(248): CodeIgniter\Config\Services::toolbar()
+#7 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Config\Events.php(48): CodeIgniter\Config\BaseService::__callStatic('toolbar', Array)
+#8 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#9 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#10 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#12 {main}
+CRITICAL - 2023-12-26 05:20:58 --> Cannot use "parent" when current class scope has no parent
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-26 05:21:13 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:23:21 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:23:23 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:36 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:36 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:36 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:36 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:36 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:37 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:37 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:37 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:37 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:37 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:37 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:37 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:37 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:37 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:37 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:37 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:37 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:38 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:38 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:38 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:38 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:38 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:38 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:39 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:39 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:39 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:39 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:39 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:39 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:39 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:40 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:40 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:40 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:40 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:40 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:40 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:40 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:40 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:40 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:40 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:41 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:41 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:41 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:30:55 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:18 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:21 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:22 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:26 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:26 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:26 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:26 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:26 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:26 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:26 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:26 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:26 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:26 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:26 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:26 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:26 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:27 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:27 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:27 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:27 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:27 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:27 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:28 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:28 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:28 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:28 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:28 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:28 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:28 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:28 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:29 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:29 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:29 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:29 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:29 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:29 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:30 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:30 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:30 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:30 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:30 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:30 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:30 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:30 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:30 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:31 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:32:35 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:33:09 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:34:06 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:35:54 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:36:01 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:36:11 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}
+CRITICAL - 2023-12-26 05:36:15 --> Creation of dynamic property App\Controllers\Login::$db is deprecated
+#0 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\app\Controllers\BaseController.php(83): CodeIgniter\Debug\Exceptions->errorHandler(8192, 'Creation of dyn...', 'D:\\wamp64\\www\\C...', 83)
+#1 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(803): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#2 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#3 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 D:\wamp64\www\CodeIgniter\backup-26-12-23\backend\system\Commands\Server\rewrite.php(43): require_once('D:\\wamp64\\www\\C...')
+#6 {main}

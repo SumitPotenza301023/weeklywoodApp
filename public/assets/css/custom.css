@@ -1,0 +1,253 @@
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY3VzdG9tLmNzcyIsInNvdXJjZXMiOlsiY3VzdG9tLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiJ9 */
+
+/*# sourceMappingURL=custom.css.map */
+.bootstrap-tagsinput {
+    width: 100%;
+    height: auto;
+    padding: 10px 15px;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
+
+.theme-white .bootstrap-tagsinput .tag {
+    margin: 5px 0;
+    display: inline-block;
+}
+
+.bootstrap-tagsinput .tag:first-child {
+    margin-left: 0;
+}
+
+
+
+
+/*new-match*/
+
+.team-item .match{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.team-matches{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+
+
+.team-matches .team-logo{
+	flex: 0 0 80px;
+	height: 80px;
+	width: 80px;
+	border-radius: 100%;
+	border: 2px solid #323232;
+}
+
+.team-matches .team-logo img{
+	width: 100%;
+	height: 100%;
+}
+
+
+.team-matches .team-info{
+	text-align: center;
+}
+
+.team-matches .team-info > span {
+	display: inline-block;
+	width: 100%;
+	font-weight: bold;
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+
+.team-matches .team-info .match-gol span{
+	padding: 0 7px;
+}
+
+.team-matches .team-info > span:last-child {
+	margin-bottom: 0;
+}
+
+.matche-schedule {
+	padding: 30px 50px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	position: relative;
+}
+.matche-schedule .matche-round{
+	text-align: center;
+	font-size: 22px;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+.matche-schedule .matche{
+	margin-bottom: 15px;
+}
+.matche-schedule .matche .matche-date-time{
+  font-weight: bold;
+	font-size: 14px;
+	margin-bottom: 10px;
+	display: flex;
+	align-items: center;
+	position: relative;
+}
+
+.matche-schedule .matche .matche-date-time .matche-edit{
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
+
+.matche-schedule .matche .matche-date-time .matche-edit i{
+	font-size: 24px;
+}
+
+.matche-schedule .matche .matche-date-time span{
+	padding: 0 7px;
+}
+
+.matche-schedule .matche .matche-date-time > span:last-child {
+	margin-bottom: 0;
+}
+
+.matche-schedule .matche .team-matche{
+  font-weight: bold;
+	font-size: 14px;
+	margin-bottom: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.matche-schedule .matche .team-matche .team-goals{
+	flex: 0 0 75px;
+}
+.matche-schedule .matche .team-matche .team-goals span{
+	padding: 0px 10px;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+
+.matche-schedule .owl-nav{
+	position: absolute;
+	top: 30px;
+	left: 0;
+	width: 100%;
+}
+
+.matche-schedule .owl-nav .owl-prev,
+.matche-schedule .owl-nav .owl-next{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	display: flex;
+	flex: 0 0 30px;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	font-size: 16px;
+	border: 2px solid #ddd;
+	border-radius: 100%;
+}
+
+.matche-schedule .owl-nav .owl-prev{
+	left: 10%;
+}
+.matche-schedule .owl-nav .owl-next{
+	right: 10%;
+}
+
+
+.colorpickerinput .input-group-append .input-group-text .fill-drip{
+	height: 30px;
+	width: 30px;
+}
+
+.select2-container{
+	width: 100% !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+  line-height: 40px;
+}
+
+.team-logo img {
+	border-radius: 50%;
+}
+
+.modal-open .daterangepicker{
+	overflow-y: scroll;
+	height: 200px;
+}
+
+
+/*Res*/
+
+@media(max-width:991px) {
+	.matche-schedule{
+		margin-top: 40px;
+	}
+}
+/* Login Css */
+.login .card .card-header {
+	justify-content: center;
+}
+
+.login .card-body h4 {
+	padding: 30px;
+	text-align: center;
+}
+
+/* Dashboard */
+.main-sidebar .sticky-logo {
+	display: none;
+}
+
+.sidebar-mini .sticky-logo {
+	display: block;
+	width: 60px;
+	padding-top: 20px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.sidebar-mini .header-logo {
+	display: none;
+}
+.fab.fa-paypal {
+	font-size: 50px;
+}
+
+.pointsinfo {
+    position: absolute;
+    right: 0;
+    background: #ededed;
+    width: 100%;
+    padding: 6px;
+    font-size: 13px;
+    line-height: 20px;
+    bottom: 100%;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 9;
+    border-radius: 5px;
+}
+.promoinfo:hover .pointsinfo {
+    opacity: 1;
+    visibility: visible;
+}
+
+.promoinfo {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.pointsinfo p {
+    line-height: 23px;
+    margin-bottom: 0;
+    color: #17a2b8;
+}
